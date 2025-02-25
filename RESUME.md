@@ -42,7 +42,7 @@
 
 - **Языки программирования:** Python, C/C++, SQL
 - **Фреймворки и библиотеки:** FastAPI, SQLAlchemy, aiogram, telebot, pytest
-- **Базы данных:** PostgreSQL, SQLite3, Redis
+- **Базы данных:** PostgreSQL, SQLite3
 - **Инструменты:** Docker, Bash, Linux
 
 ---
